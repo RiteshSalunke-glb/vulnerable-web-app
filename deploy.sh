@@ -3,6 +3,10 @@
 # Deployment script with hardcoded secrets
 # WARNING: This file contains deliberately exposed secrets for educational purposes
 
+ini 
+AWS_ACCESS_KEY_ID = AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
 # SSH credentials
 SSH_KEY="-----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
